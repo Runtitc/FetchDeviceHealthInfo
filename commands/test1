@@ -1,0 +1,3 @@
+ls
+ping -c 5 localhost
+telnet 22 localhost
